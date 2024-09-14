@@ -33,11 +33,20 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cakebut/cakebut/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <hr/>
 
