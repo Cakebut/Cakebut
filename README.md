@@ -45,10 +45,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=cakebut&theme=modern-lilac2&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=cakebut&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com?user=cakebut&theme=modern-lilac2&border_radius=7&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cakebut&count_private=true&show_icons=true&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-cakebut.vercel.app/api/top-langs/?username=cakebut&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakebut&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
