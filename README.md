@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently in my second year studying **Big Data and Cyber Security**
+ 🔭 I’m currently in my third year studying **Big Data and Cyber Security**
  
  🌱 I’m currently learning **Python, HTML, Javascript, CSS, SQL, Database**
 
