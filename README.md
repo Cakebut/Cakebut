@@ -2,17 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Justin!;" />
 </h1>
 
-<h3 align="center">A student studying at SIM-University of Wollongong</h3>
+<h3 align="center">A fresh graduate from SIM-University of Wollongong</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently in my third year studying **Big Data and Cyber Security**
+ 🔭 Bachelor Bachelor in Computer Science **Big Data and Cyber Security**
  
- 🌱 I’m currently learning **Python, HTML, Javascript, CSS, SQL, Database**
+ 👨‍💻 Language **Python, HTML, Javascript, CSS, SQL, Database, C++, C#**
 
-⚡ Fun fact **I never knew the phrase "Run Time Complexity" can cause so much anxiety to CS students until I experienced it myself.**
+ 🌟 Skill Set **Ethical Hacking, Natural Language Processing (NLP), Back-End Web Development, Cybersecurity, Artificial Intelligence (AI), Prompt Engineering, PyTorch, Git, Linux, Retrieval-Augmented Generation (RAG), Database Management System (DBMS), Machine Learning Algorithms, Deep Reinforcement Learning, Amazon Web Services (AWS), Data Preparation, Large Language Models (LLM), REST APIs**
+
+ ⚡ Fun fact **I never knew the phrase "Run Time Complexity" can cause so much anxiety to CS students until I experienced it myself.**
 
  </div>
  
